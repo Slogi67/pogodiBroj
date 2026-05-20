@@ -1,0 +1,7 @@
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApp4.Form1.resources
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio\21.11.2024\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
